@@ -25,7 +25,7 @@ See each file for further documentation.
 
 ##Acknowledgements
 
-The work of E. Björnson asfunded by the International Postdoc Grant 2012-228 from The Swedish Research Council. This research has been supported by the ERC Starting Grant 305123 MORE (Advanced Mathematical Tools for Complex Network Engineering). Parts of this work have been performed in the framework of the FP7 project ICT-317669 METIS. This work was supported by the Future and Emerging Technologies (FET) project HIATUS within the Seventh Framework Programme for Research of the European Commission under FET-Open grant number 265578.
+The work of E. Björnson was funded by the International Postdoc Grant 2012-228 from The Swedish Research Council. This research has been supported by the ERC Starting Grant 305123 MORE (Advanced Mathematical Tools for Complex Network Engineering). Parts of this work have been performed in the framework of the FP7 project ICT-317669 METIS. This work was supported by the Future and Emerging Technologies (FET) project HIATUS within the Seventh Framework Programme for Research of the European Commission under FET-Open grant number 265578.
 
 
 ##License and Referencing
